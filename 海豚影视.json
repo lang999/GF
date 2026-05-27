@@ -754,6 +754,12 @@
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
         {
+            "name": "🐬UnifiTV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/UnifiTV"
+        },
+	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
