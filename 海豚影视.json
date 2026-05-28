@@ -18,8 +18,16 @@
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
         },
         {"key":"TX",
-        "name":"🐬腾讯视频",
+        "name":"🐬腾讯视频1",
         "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
+        },
+		{
+        "key":"TX",
+        "name":"🐬腾讯视频2",
+        "type":3,
+        "jar": "./fm60226.jar",
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
         },
