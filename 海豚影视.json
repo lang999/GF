@@ -29,6 +29,14 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
+		{
+            "key": "低端",
+            "name": "🛣┃低端┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "http://jar.jsy666.xyz/js/lib/drpy2.min.js",
+            "ext": "http://jar.jsy666.xyz/js/ddys.js"
+        },
 	{
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
