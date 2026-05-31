@@ -14,6 +14,7 @@
             "key": "枫叶",
             "name": "枫叶",
             "type": 3,
+            "searchable": 0
             "api": "csp_枫叶",
             "homePage": "./html/枫叶.html"
         },
