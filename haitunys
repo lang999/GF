@@ -365,6 +365,15 @@
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
+        {
+            "key": "X细胞",
+            "name": "🐬X细胞｜🔞",
+            "type": 1,
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
     {
       "key": "香蕉资源",
       "name": "🐬香蕉资源🔞",
