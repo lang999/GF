@@ -39,6 +39,13 @@
         "homePage":"https://fgblh.github.io/uhuj.github.io/ptt.html"
       },
       {
+        "key":"LV",
+        "name":"🐬LIBVIO影视",
+        "type":3,
+        "api":"csp_libvio",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/libvio.html"
+      },
+      {
       "key": "非凡",
       "name": "🐬非凡影视",
       "type": 1,
