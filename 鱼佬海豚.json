@@ -355,6 +355,13 @@
 			"type": 3,
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
+		{
+           "key": "stripchat",
+           "name": "🐬stripchat直播🔞",
+           "type": 3,
+           "api": "csp_stripchat",
+           "homePage": "https://fgblh.github.io/uhuj.github.io/stripchat.html"
+        },
         {
         "key":"MissAV",
         "name":"🐬MissAV🔞",
