@@ -471,23 +471,18 @@
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
         },
-           {
-            "name": "解析0",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-        },
      {
-      "name": "解析0",
+      "name": "解析1",
       "type": 0,
       "url": "https://huayong.net/999/?v="
     },
     {
-      "name": "解析1",
+      "name": "解析2",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "解析2",
+      "name": "解析3",
       "type": 0,
       "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
     },
