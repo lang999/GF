@@ -362,12 +362,6 @@
         "海外动漫"
          ]
          },  
-		{
-			"key": "dmbs",
-			"name": "🐬动漫巴士.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/动漫巴士.py"
-		},
         {
       "key": "cj_360资源",
       "name": "🐬360丨短剧",
