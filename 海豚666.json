@@ -442,6 +442,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/红果短剧.py"
 		},
 		{
+			"key": "djjh",
+			"name": "🐬短剧聚合.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/短剧聚合.py"
+		},
+		{
             "key": "捡的音乐",
             "name": "🐬爱听音乐[音乐]",
             "type": 3,
