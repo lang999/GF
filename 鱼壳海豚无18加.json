@@ -113,6 +113,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
 		},
 		{
+			"key": "UVOD",
+			"name": "🐬U视频.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/U视频.py"
+		},
+		{
           "key": "MH",
           "name": "🐬麻花影视.py",
           "type": 3,
