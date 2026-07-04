@@ -5,6 +5,12 @@
     "warningText": "注意:如果别人倒卖海豚影视接口收费的都是骗子,没有qq群微信群，只有tg官方交流群 TG：@hshsjk",
     "sites": [
 		{
+          "key": "MH",
+          "name": "🐬麻花.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花.py"
+        },
+		{
           "key": "MGtv",
           "name": "🐬芒果TV.py 海豚影视交流群 TG：@hshsjk9",
           "type": 3,
