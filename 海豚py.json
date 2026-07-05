@@ -30,7 +30,7 @@
     "lpAlpha": 0.9,
     "lpWidth": 0.9,
     "lpHeight": 0.85,
-    "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚py.json"
+    "titleMappingsUrl": "./json/yins.json"
    }
   }，
 		{
