@@ -2,17 +2,17 @@
     "spider": "./tvbox.jar",
     "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
     "wallpaper":"http://tool.teyonds.com/api",
-    "warningText": "注意:如果别人倒卖海豚影视接口收费的都是骗子,没有qq群微信群，只有tg官方交流群 TG：@hshsjk",
+    "warningText": "注意:你已进入VIP视频区",
     "sites": [
         {
          "key":"AQY",
-        "name":"🐬爱奇艺 海豚影视完全免费，如有收费的都是骗子",
+        "name":"🐬爱奇艺",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
          {"key":"YK",
-        "name":"🐬优酷视频 海豚影视交流群 TG：@hshsjk9",
+        "name":"🐬优酷视频",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
@@ -21,7 +21,7 @@
           "key": "YK",
           "name": "🐬优酷视频.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/优酷视频.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/优酷视频.py"
         },
         {"key":"TX",
         "name":"🐬腾讯视频",
@@ -33,7 +33,7 @@
            "key": "hajim-腾讯备",
            "name": "🐬腾讯4K",
            "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+           "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
            "searchable": 1,
            "changeable": 1,
            "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
@@ -42,7 +42,7 @@
           "key": "txvm",
           "name": "🐬腾讯视频.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/腾讯视频.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/腾讯视频.py"
         },
 		{"key":"MG",
         "name":"🐬芒果TV",
@@ -54,165 +54,165 @@
 		"key": "茫茫",
         "name": "🐬芒果4K",
         "type": 3,
-         "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-         "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+         "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+         "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
           "key": "MGtv",
           "name": "🐬芒果TV.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/芒果TV.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/芒果TV.py"
         },
 		{
       "key": "ppx",
       "name": "🐬皮皮虾.py",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/皮皮虾.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/皮皮虾.py",
       "ext": "http://43.248.117.123:4680"
        },
 		{
 			"key": "fY",
 			"name": "🐬枫叶影院(关梯子使用)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶影院.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/枫叶影院.py"
 		},
 		{
 			"key": "ww",
 			"name": "🐬哇哇APP.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/哇哇APP.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/哇哇APP.py"
 		},
 		{
 			"key": "rb",
 			"name": "🐬热播APP.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/热播APP.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/热播APP.py"
 		},
 		{
 			"key": "JP",
 			"name": "🐬金牌APP.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/金牌APP.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/金牌APP.py"
 		},
 		{
 			"key": "GZ",
 			"name": "🐬瓜子APP.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/瓜子APP.py"
 		},
 		{
 			"key": "nnyy",
 			"name": "🐬努努影院.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/努努影院.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/努努影院.py"
 		},
 		{
 			"key": "nvm",
 			"name": "🐬泥视频.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/泥视频.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/泥视频.py"
 		},
 		{
 			"key": "QU",
 			"name": "🐬奇优影院.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/奇优影院.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/奇优影院.py"
 		},
 		{
           "key": "ayf",
           "name": "🐬爱壹帆影视.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱壹帆.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/爱壹帆.py"
         },
 		{
           "key": "MH",
           "name": "🐬麻花影视.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麻花影视.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/麻花影视.py"
         },
 		{
           "key": "XH",
           "name": "🐬星河影视.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星河影视.py"
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/星河影视.py"
         },
 		{
 			"key": "guanfeng",
 			"name": "🐬观风影视.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/观风影视.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/观风影视.py"
 		},
 		{
 			"key": "SZ",
 			"name": "🐬山楂影视.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/山楂影视.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/山楂影视.py"
 		},
 		{
 			"key": "qmvm",
 			"name": "🐬七猫影视.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七猫影视.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/七猫影视.py"
 		},
 		{
 			"key": "nmvm",
 			"name": "🐬农民影视.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/农民影视.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/农民影视.py"
 		},
 		{
 			"key": "xc",
 			"name": "🐬星辰影院.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星辰影院.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/星辰影院.py"
 		},
 		{
 			"key": "hstv",
 			"name": "🐬华数TV.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/华数TV.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/华数TV.py"
 		},
 		{
 			"key": "dttv",
 			"name": "🐬蛋挞TV.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蛋挞TV.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/蛋挞TV.py"
 		},
 		{
 			"key": "dsys",
 			"name": "🐬毒舌影视.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/毒舌影视.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/毒舌影视.py"
 		},
 		{
            "key": "qw",
            "name": "🐬七味.py(关梯)",
            "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py"
+           "api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/七味.py"
         },
 		{
 			"key": "kf",
 			"name": "🐬咖啡体育直播.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/咖啡直播.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/咖啡直播.py"
 		},
 		{
 			"key": "sm",
 			"name": "🐬熊猫直播",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/熊猫直播.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/熊猫直播.py"
 		},
 		{
 			"key": "blzb",
 			"name": "🐬哔哩直播.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/哔哩直播.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/哔哩直播.py"
 		},
 		{
 			"key": "jhzb",
 			"name": "🐬聚合直播.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/聚合直播.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/聚合直播.py"
 		},
 	{
       "key": "非凡",
@@ -447,7 +447,7 @@
 			"key": "MiFun",
 			"name": "🐬MiFun动漫.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/MiFun动漫.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/MiFun动漫.py"
 		},
         {
       "key": "cj_360资源",
@@ -472,25 +472,25 @@
 			"key": "smdj",
 			"name": "🐬星芽短剧.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/星芽短剧.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/星芽短剧.py"
 		},
 		{
 			"key": "hmjc",
 			"name": "🐬河马剧场.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/河马剧场.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/河马剧场.py"
 		},
 		{
 			"key": "hgdj",
 			"name": "🐬红果短剧.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/红果短剧.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/红果短剧.py"
 		},
 		{
 			"key": "djjh",
 			"name": "🐬短剧聚合.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/短剧聚合.py"
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/py/短剧聚合.py"
 		},
 		{
             "key": "捡的音乐",
@@ -499,8 +499,8 @@
             "api": "csp_Music1",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/Music1.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/so.jar",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/jar_js/Music1.json",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/jar_js/so.jar",
             "filterable": 1
         }
     ],
@@ -626,13 +626,13 @@
     ],	
 		"lives": [
          {
-            "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
+            "name": "🐬各大源合集",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
 	     {
-            "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9",
+            "name": "🐬综合直播",
             "type": 0,
             "playerType": 2,
             "ua": "okhttp",
@@ -649,7 +649,7 @@
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
          {
             "name": "🐬地方直播2",
@@ -781,7 +781,7 @@
             "name": "🐬4GTV(梯子台湾节点)720p",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/4gtv.txt"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lang999/GF/refs/heads/main/4gtv.txt"
         },
 	    {
             "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
