@@ -40,7 +40,7 @@ class Spider(Spider):
     
     def homeVideoContent(self):
         try:
-            rsp = self.fetch("https://www.qivod.com/")
+            rsp = self.fetch("http://www.qiyo.cc/")
             root = self.parse_html(rsp.content)
             if not root:
                 return {'list': []}
@@ -76,7 +76,7 @@ class Spider(Spider):
         result = {}
         try:
             order = extend.get('by', 'time') if extend else 'time'
-            url = f'http://qiyoudy5.com/list/{tid}_{pg}.html?order={order}'
+            url = f'http://qiyoudy2.com/list/{tid}_{pg}.html?order={order}'
             rsp = self.fetch(url)
             root = self.parse_html(rsp.content)
             
@@ -116,7 +116,7 @@ class Spider(Spider):
     def detailContent(self, array):
         try:
             tid = array[0]
-            url = f'http://qiyoudy5.com{tid}'
+            url = f'http://qiyoudy2.com{tid}'
             rsp = self.fetch(url)
             root = self.parse_html(rsp.content)
             
@@ -182,7 +182,7 @@ class Spider(Spider):
     
     def searchContent(self, key, quick, page='1'):
         try:
-            url = "http://qiyoudy5.com/search.php"
+            url = "http://qiyoudy2.com/search.php"
             # 修复：使用正确的参数名和变量
             post_data = {
                 'searchword': key,  # 改为变量key，而不是字符串'key'
@@ -191,8 +191,8 @@ class Spider(Spider):
             headers = {
                 "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "http://qiyoudy5.com/",
-                "Origin": "http://qiyoudy5.com"
+                "Referer": "http://qiyoudy2.com/",
+                "Origin": "http://qiyoudy2.com"
             }
             
             # 修复：只发送一次POST请求，删除重复的请求
@@ -286,7 +286,7 @@ class Spider(Spider):
     
     def playerContent(self, flag, id, vipFlags):
         try:
-            url = f"http://qiyoudy5.com{id}"
+            url = f"http://qiyoudy2.com{id}"
             rsp = self.fetch(url)
             _, html_content = self.parse_html(rsp.content, return_content=True)
             
@@ -333,9 +333,9 @@ class Spider(Spider):
             return {"parse": 1, "playUrl": "", "url": url, "header": headers}
             
         except:
-            return {"parse": 1, "playUrl": "", "url": f"http://qiyoudy5.com{id}", "header": {
+            return {"parse": 1, "playUrl": "", "url": f"http://qiyoudy2.com{id}", "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "http://qiyoudy5.com/",
+                "Referer": "http://qiyoudy2.com/",
             }}
 
     # 辅助函数
